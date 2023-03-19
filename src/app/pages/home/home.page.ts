@@ -14,7 +14,7 @@ export class HomePage {
       redirectTo: '/action-sheet',
     },
     {
-      icon: 'alert-outline',
+      icon: 'alert-circle-outline',
       name: 'Alert',
       redirectTo: '/alert',
     },
