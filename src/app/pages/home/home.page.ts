@@ -18,5 +18,10 @@ export class HomePage {
       name: 'Alert',
       redirectTo: '/alert',
     },
+    {
+      icon: 'beaker-outline',
+      name: 'Avatar',
+      redirectTo: '/avatar',
+    },
   ];
 }
