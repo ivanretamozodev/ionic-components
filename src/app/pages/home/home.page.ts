@@ -28,5 +28,10 @@ export class HomePage {
       name: 'Buttons',
       redirectTo: '/buttons',
     },
+    {
+      icon: 'card-outline',
+      name: 'Cards',
+      redirectTo: '/cards',
+    },
   ];
 }
