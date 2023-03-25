@@ -23,5 +23,10 @@ export class HomePage {
       name: 'Avatar',
       redirectTo: '/avatar',
     },
+    {
+      icon: 'radio-button-off-outline',
+      name: 'Buttons',
+      redirectTo: '/buttons',
+    },
   ];
 }
